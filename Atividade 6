@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Cafeteria - Produtos</title>
+</head>
+<body>
+    <!-- Cabeçalho com logotipo -->
+    <header>
+        <img src="cafeteria-logo.jpg" alt="Logotipo da Cafeteria" width="150">
+        <h1>Cardápio da Cafeteria</h1>
+    </header>
+
+    <!-- Tabela avançada -->
+    <main>
+        <table border="1" cellpadding="8" cellspacing="0">
+            <caption><strong>Nossos Produtos</strong></caption>
+            <tr>
+                <th rowspan="2">Imagem</th>
+                <th colspan="2">Detalhes do Produto</th>
+            </tr>
+            <tr>
+                <th>Nome</th>
+                <th>Preço</th>
+            </tr>
+            <tr>
+                <td>
+                    <a href="cafe.html">
+                        <img src="cafe.jpg" alt="Café" width="100">
+                    </a>
+                </td>
+                <td>Café Expresso</td>
+                <td>R$ 5,00</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="capuccino.html">
+                        <img src="capuccino.jpg" alt="Capuccino" width="100">
+                    </a>
+                </td>
+                <td>Capuccino Cremoso</td>
+                <td>R$ 8,00</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="bolo.html">
+                        <img src="bolo.jpg" alt="Bolo de Chocolate" width="100">
+                    </a>
+                </td>
+                <td>Bolo de Chocolate</td>
+                <td>R$ 12,00</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="cha.html">
+                        <img src="cha.jpg" alt="Chá de Ervas" width="100">
+                    </a>
+                </td>
+                <td>Chá de Ervas</td>
+                <td>R$ 6,00</td>
+            </tr>
+        </table>
+    </main>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>📍 Endereço: Rua Central, 123 - Cidade</p>
+        <p>📞 Telefone: (11) 1234-5678</p>
+        <p>✉️ Email: contato@cafeteria.com</p>
+    </footer>
+</body>
+</html>
