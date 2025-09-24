@@ -12,8 +12,7 @@
     </header>
 
     <!-- Imagem ilustrativa -->
-    <img src="https://cdn.pixabay.com/photo/2019/08/24/15/00/street-4423712_1280.jpg" 
-         alt="Cafeteria na rua - Imagem Pixabay" width="600">
+    <img src="cafeteria.jpg" alt="Cafeteria na rua" width="600">
 
     <!-- Tabela de produtos -->
     <main>
