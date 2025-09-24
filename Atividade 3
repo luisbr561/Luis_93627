@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Cafeteria Aroma</title>
+</head>
+<body>
+
+    <!-- Cabeçalho -->
+    <header>
+        <h1>Cafeteria Aroma</h1>
+    </header>
+
+    <!-- Menu -->
+    <nav>
+        <a href="#">Início</a> |
+        <a href="#">Cardápio</a> |
+        <a href="#">Sobre</a> |
+        <a href="#">Contato</a>
+    </nav>
+
+    <!-- Conteúdo principal -->
+    <main>
+        <h2>Bem-vindo à Cafeteria Aroma</h2>
+        <p>O melhor café da cidade, feito com grãos selecionados e muito carinho.</p>
+
+        <h3>Destaques</h3>
+        <p>- Cafés Especiais</p>
+        <p>- Doces Artesanais</p>
+        <p>- Promoções da Semana</p>
+    </main>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>© 2025 Cafeteria Aroma - Todos os direitos reservados</p>
+        <p>Contato: contato@cafearoma.com | (11) 9999-9999</p>
+    </footer>
+
+</body>
+</html>
