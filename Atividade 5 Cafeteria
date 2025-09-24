@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Cafeteria Aroma - Produtos</title>
+</head>
+<body>
+
+    <!-- Cabeçalho -->
+    <header>
+        <h1>Cafeteria Aroma</h1>
+    </header>
+
+    <!-- Imagem ilustrativa -->
+    <img src="https://cdn.pixabay.com/photo/2019/08/24/15/00/street-4423712_1280.jpg" 
+         alt="Cafeteria na rua - Imagem Pixabay" width="600">
+
+    <!-- Tabela de produtos -->
+    <main>
+        <h2>Nossos Produtos</h2>
+        <table border="1">
+            <tr>
+                <th>Produto</th>
+                <th>Descrição</th>
+                <th>Preço</th>
+            </tr>
+            <tr>
+                <td>Café Expresso</td>
+                <td>Clássico café curto e forte</td>
+                <td>R$ 5,00</td>
+            </tr>
+            <tr>
+                <td>Capuccino</td>
+                <td>Café com leite cremoso e canela</td>
+                <td>R$ 8,00</td>
+            </tr>
+            <tr>
+                <td>Bolo de Chocolate</td>
+                <td>Fatia de bolo artesanal</td>
+                <td>R$ 6,50</td>
+            </tr>
+            <tr>
+                <td>Pão de Queijo</td>
+                <td>Tradicional pão mineiro</td>
+                <td>R$ 4,00</td>
+            </tr>
+        </table>
+    </main>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>
+            <a href="#">Sobre nós</a> | 
+            <a href="#">Contato</a> | 
+            <a href="#">Cardápio</a>
+        </p>
+        <p>© 2025 Cafeteria Aroma</p>
+    </footer>
+
+</body>
+</html>
